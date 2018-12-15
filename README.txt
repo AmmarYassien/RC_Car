@@ -71,3 +71,5 @@ https://drive.google.com/drive/folders/10CLGbFcDN0dmNCjVXouHE12LwA7OqXyw?usp=sha
 
 NOTE: The 2 uploaded codes are supposed to be processed/run simultaneously. (Code1: Actuation.py, Code2:Processing.py)
 
+Link for the opertaion of the Project using the arrows signs.
+https://www.youtube.com/watch?v=gpc-SAHPJQI&feature=youtu.be&fbclid=IwAR0Qt4jeyn5yUxyKYBg8cauno0_3VAP3zeBl_pEG2i9_iS2SI0TkBwdyTVc
